@@ -1,1 +1,1 @@
-# Predicting-the-Titanic-Survival
+# Titanic-Survival-Prediction-Using Navie Bayes
